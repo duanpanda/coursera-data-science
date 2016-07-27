@@ -1,1 +1,1 @@
-# coursera-data-science
+# Ryan Duan's repo for Data Science Specialization on Coursera
